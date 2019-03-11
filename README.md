@@ -1,1 +1,41 @@
 # module2
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="device-width, initial scale=1">
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style1.css">
+
+
+<h1> Our Menu </h1>
+
+<div class='row'>
+      <div class='col-lg-4 col-md-6 col-sm-12'>
+        <div class='section'>
+          <h2 id='chicken' class='title'>Chicken</h2>
+          <p class='description'>
+            The quintessential chinese recipe, Chilli Chicken is one of the most popular Indo-Chinese styled chicken appetizer or starter. Boneless chicken pieces are marinated in a mix of soy sauce, chilli sauce along with pepper and these tender, succulent pieces are then deep fried to be seasoned with the sauces again. This delicious chicken recipe is very popular in the chinese restaurants but with this easy recipe you can make it at the comfort of your home according to your own taste.
+          </p>
+        </div>
+      </div>
+      <div class='col-lg-4 col-md-6 col-sm-12'>
+        <div class='section'>
+          <h2 id='beef' class='title'>Beef</h2>
+          <p class='description'>
+            Whisk the lemon juice, soy sauce, sugar, salt, and pepper together in a small bowl. Place the sliced steak in a large bowl; pour the lemon juice mixture over the steak and toss to coat. Sprinkle with the cornstarch and lightly mix. Cover with plastic wrap and refrigerate at least 1 hour, up to overnight. Heat 1/4 cup vegetable oil in a large skillet. Remove the beef slices from the marinade, shaking to remove any excess liquid. Fry beef slices in batches in the hot oil until they start to firm.
+        </div>
+      </div>
+      <div class='col-lg-4 col-md-12 col-sm-12'>
+        <div class='section'>
+          <h2 id='sushi' class='title'>Sushi</h2>
+          <p class='description'>
+            In a medium saucepan, bring 1 1/3 cups water to a boil. Add rice, and stir. Reduce heat, cover, and simmer for 20 minutes. In a small bowl, mix the rice vinegar, sugar ,and salt. Blend the mixture into the rice. Preheat oven to 300 degrees F (150 degrees C). On a medium baking sheet, heat nori in the preheated oven 1 to 2 minutes, until warm.Center one sheet nori on a bamboo sushi mat.Arrange 1/4 of the cucumber, ginger, avocado and other green vegetables.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</head>
+</html>
+
